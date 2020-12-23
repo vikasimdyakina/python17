@@ -1,1 +1,1 @@
-print ('Yellow')
+print ('Blue')
